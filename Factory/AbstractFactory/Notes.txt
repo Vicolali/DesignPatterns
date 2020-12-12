@@ -1,0 +1,6 @@
+Abstract Factory - A creational pattern
+================================
+
+A super-factory which creates other factories.
+provides one of the best ways to create an object.
+Here, an interface is responsible for creating a factory of related objects

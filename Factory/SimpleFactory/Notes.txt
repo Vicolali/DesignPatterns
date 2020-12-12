@@ -1,0 +1,8 @@
+/**
+ * -- FACTORY PATTERN - A creational pattern
+ 
+- One of the most used design patterns
+- Factory uses a special object to create other objects.
+- Create object without exposing the creation logic to the client
+- Reduces coupling of code
+**/
